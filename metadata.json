@@ -1,0 +1,6 @@
+{
+  "name": "Matchpoint CRM",
+  "description": "Internal CRM prototype replacing HubSpot for sales teams with Pipeline, Contacts, Companies, Activities, and Role Switcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
